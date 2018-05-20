@@ -1,0 +1,20 @@
+C:\vcs\caloriecheck\caloriecheck\bin\Debug\caloriecheck.exe.config
+C:\vcs\caloriecheck\caloriecheck\bin\Debug\caloriecheck.exe
+C:\vcs\caloriecheck\caloriecheck\bin\Debug\caloriecheck.pdb
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.csprojResolveAssemblyReference.cache
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.Form1.resources
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.Properties.Resources.resources
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.csproj.GenerateResource.Cache
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.exe
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.pdb
+C:\vcs\caloriecheck\caloriecheck\obj\Debug\caloriecheck.csproj.ResolveComReference.cache
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\bin\Debug\caloriecheck.exe.config
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.csproj.ResolveComReference.cache
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.exe
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.pdb
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\bin\Debug\caloriecheck.exe
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\bin\Debug\caloriecheck.pdb
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.csprojResolveAssemblyReference.cache
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.Form1.resources
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.Properties.Resources.resources
+\\172.16.0.128\students\平成29年度\01_高度ITビジネス科\2年生\プログラム言語III (VC#)\課題提出\下山瑞貴\caloriecheck\caloriecheck\obj\Debug\caloriecheck.csproj.GenerateResource.Cache
